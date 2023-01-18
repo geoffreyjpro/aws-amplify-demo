@@ -17,6 +17,12 @@
       },
       "auth": {
         "awsamplifydemod8d38f62": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dhaefns7t2yyq",
+          "type": "manual"
+        }
       }
     }
   }
